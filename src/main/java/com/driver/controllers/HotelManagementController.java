@@ -30,6 +30,7 @@ public class HotelManagementController {
         //in all other cases return SUCCESS after successfully adding the hotel to the hotelDb.
 
 
+
         return null;
     }
 
